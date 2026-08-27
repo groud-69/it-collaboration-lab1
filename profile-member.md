@@ -13,3 +13,10 @@
 - สาขาวิชา: เทคโนโลยีสารสนเทศ
 - บทบาทในกลุ่ม: DevOps Analyst
 - GitHub: https://github.com/6729011008-design
+
+## นราชัย ศรีน้อย
+
+- รหัสนักศึกษา: 6729011015
+- สาขาวิชา: เทคโนโลยีสารสนเทศ
+- บทบาทในกลุ่ม: Documentation Lead
+- GitHub: https://github.com/6729011015-commits
