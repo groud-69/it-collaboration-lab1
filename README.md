@@ -1,1 +1,9 @@
-# it-collaboration-lab1
+# โปรเจกต์วิชาการพัฒนาระบบร่วมกันด้วยแพลตฟอร์ม
+
+## รายชื่อสมาชิกกลุ่ม
+
+| ลำดับ | รหัสนักศึกษา | ชื่อ-นามสกุล | บทบาท | GitHub Profile |
+| :---: | :---: | :--- | :--- | :--- |
+| 1 | 6729011006 | กฤติพัฒน์ เหมือนมาตย์ | Team Leader | [GitHub](https://github.com/6729011006) |
+| 2 | 6729011008 | กันตพัฒน์ พิทยสุขอนันต์ | DevOps Analyst | [GitHub](https://github.com/6729011008-design) |
+| 3 | 6729011015 | นราชัย ศรีน้อย | Documentation Lead | [GitHub](https://github.com/6729011015-commits) |
